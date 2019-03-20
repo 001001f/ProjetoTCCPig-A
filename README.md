@@ -1,2 +1,2 @@
 # ProjetoTCCPig-A
-pig and Açogueiro
+ Um jogo para mostrar a crueldade que existe aos animais
